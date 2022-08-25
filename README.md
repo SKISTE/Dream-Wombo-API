@@ -5,7 +5,7 @@ Library for generate pictures by [Wombo Dream](https://app.wombo.art/  "Сайт
 ## Документация
 
 Пример использования|Usage example:
-```
+```python
 import dreamapi
 from time import sleep
 api = DreamAPI()
@@ -22,8 +22,8 @@ while True:
 ```
 ***
 `see_all_styles(print:bool = False)`
-Выводит все возможные стили и возвращает словарь
-Print all styles and return dict
+RUS: Выводит все возможные стили и возвращает словарь(space)
+ENG: Print all styles and return dict(space)
 :param print (boolean) - Выводить все стили в консоль Print all styles in console
 ***
 `post()`
