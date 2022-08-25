@@ -22,8 +22,8 @@ while True:
 ```
 ***
 `see_all_styles(print:bool = False)`
-RUS: Выводит все возможные стили и возвращает словарь(space)
-ENG: Print all styles and return dict(space)
+RUS: Выводит все возможные стили и возвращает словарь  
+ENG: Print all styles and return dict  
 :param print (boolean) - Выводить все стили в консоль Print all styles in console
 ***
 `post()`
