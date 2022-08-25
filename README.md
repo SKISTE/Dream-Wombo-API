@@ -34,7 +34,7 @@ ENG: Make a request for an application for generation
 RUS: Вкладывает по айди номер стиля и сам запрос  
 ENG: Put prompt and style number by id
 ***
-`check(id:str)`
+`check(id:str)`  
 RUS: Проверяет, сгенерировалась ли изображение  
 ENG: Checks if the image has been generated  
 :param id (str) - id запроса | Request ID
