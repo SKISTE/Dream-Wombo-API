@@ -1,4 +1,5 @@
 
+# This code not work yet
 # Dream Wombo API
 Библиотека для генерации изображений при помощи [Wombo Dream](https://app.wombo.art/  "Сайт")  
 Library for generate pictures by [Wombo Dream](https://app.wombo.art/  "Сайт")
